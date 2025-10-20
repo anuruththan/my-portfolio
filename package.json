@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "export": "next export",
-    "build:export": "npm run build && npm run export",
+    "build:export": "next build",
     "start": "next start",
     "start:static": "serve -s out -l 3000",
     "lint": "next lint"
