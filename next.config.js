@@ -4,8 +4,8 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
-    basePath: '/my-portfolio',
-    assetPrefix: '/my-portfolio/public',
+    basePath: '/',
+    assetPrefix: '/my-portfolio',
 
 };
 
