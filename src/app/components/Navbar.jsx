@@ -31,7 +31,7 @@ const Navbar = () => {
           href={"/"}
           className="text-2xl md:text-5xl text-white font-semibold"
         >
-          <Image src="/anuru_logo_final.png" alt="Logo"
+          <Image src={`${process.env.NEXT_PUBLIC_BASE_PATH}/anuru_logo_final.png`} alt="Logo"
                  width={100}
                  height={100}
                  className="h-10 md:h-16 w-auto object-contain" />
