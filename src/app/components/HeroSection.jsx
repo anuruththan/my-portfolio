@@ -48,7 +48,7 @@ const HeroSection = () => {
                 >
                     <div className="rounded-full bg-[#181818] w-[382px] h-[382px] lg:w-[382px] lg:h-[382px] relative">
                         <Image
-                            src="/images/details-imgaes/My_IMG.png"
+                            src="./Images/details-imgaes/My_IMG.png"
                             alt="hero image"
                             className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             width={300}
