@@ -10,7 +10,7 @@ const projectsData = [
     title: "My Portfolio Website",
     description: "Next.js & Tailwind CSS",
     image: `${process.env.NEXT_PUBLIC_BASE_PATH}/projects/5.png`,
-    tag: ["All", "Back-End"],
+    tag: ["All", "Front-End"],
     gitUrl: "https://github.com/anuruththan/my-portfolio.git",
   },
   {
