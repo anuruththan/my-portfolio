@@ -41,7 +41,7 @@ const projectsData = [
     id: 5,
     title: "Dairy Management System",
     description: "Flask & Random Forest Classifier",
-    image: `${process.env.NEXT_PUBLIC_BASE_PATH}/projects/4.png`,
+    image: `${process.env.NEXT_PUBLIC_BASE_PATH}/projects/6.png`,
     tag: ["All", "Machine Learning"],
     gitUrl: "https://github.com/DairyFarmers/dfi-ml-service.git",
   },
