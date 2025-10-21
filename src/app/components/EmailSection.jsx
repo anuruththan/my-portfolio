@@ -22,13 +22,13 @@ export default function ContactSection() {
           </p>
 
           <div className="socials flex flex-row gap-4 justify-center md:justify-start">
-            <Link href="https://github.com/anuruththan">
+            <Link href="https://github.com/anuruththan" target="_blank">
               <Image src={GithubIcon} alt="Github Icon" />
             </Link>
-            <Link href="https://www.linkedin.com/in/anuruththanb/">
+            <Link href="https://www.linkedin.com/in/anuruththanb/" target="_blank">
               <Image src={LinkedinIcon} alt="Linkedin Icon" />
             </Link>
-            <Link href="mailto:anuruththan1320@gmail.com">
+            <Link href="mailto:anuruththan1320@gmail.com" target="_blank">
               <Image src={GmailIcon} alt="Gmail Icon" />
             </Link>
           </div>
